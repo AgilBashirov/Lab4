@@ -1,0 +1,14 @@
+
+1. Student class i yaradin. unikal id, name, surname. Tostring() id, name ve surnameni qaytarsin. 
+   id class xaricinde get oluna bilsin amma set oluna bilmesin.
+
+2. arqument olaraq hecne gondermesen de (id menimsenir*) name, surname gondersen de (id menimsenir*) object yarada bilesen.
+
+3. Group class i yaradin. id, name, Student array, maxStudentCount olsun. Tostring() - Name qaytarsin. 
+
+4. Group classinin AddStudent(stu) methodu olsun ve Student arrayina student elave etsin. Array.Resize()
+   maxStudentCount - u ashirsa "### - qrup doludur, maksimum telebe sayi - maxStudentCount" infosu cixsin.
+
+5. Group classinda StudentList()  Qrupun adini ve qrupdaki butun telebeleri gostersin.
+
+6. Group classinda FindStudent(id)  id argumenti gonderib hemin id-li studenti qaytarsin.

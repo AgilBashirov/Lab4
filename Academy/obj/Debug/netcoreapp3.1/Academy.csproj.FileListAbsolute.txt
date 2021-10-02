@@ -1,0 +1,13 @@
+C:\Users\Agil\source\repos\Academy\Academy\bin\Debug\netcoreapp3.1\Academy.exe
+C:\Users\Agil\source\repos\Academy\Academy\bin\Debug\netcoreapp3.1\Academy.deps.json
+C:\Users\Agil\source\repos\Academy\Academy\bin\Debug\netcoreapp3.1\Academy.runtimeconfig.json
+C:\Users\Agil\source\repos\Academy\Academy\bin\Debug\netcoreapp3.1\Academy.runtimeconfig.dev.json
+C:\Users\Agil\source\repos\Academy\Academy\bin\Debug\netcoreapp3.1\Academy.dll
+C:\Users\Agil\source\repos\Academy\Academy\bin\Debug\netcoreapp3.1\Academy.pdb
+C:\Users\Agil\source\repos\Academy\Academy\obj\Debug\netcoreapp3.1\Academy.csprojAssemblyReference.cache
+C:\Users\Agil\source\repos\Academy\Academy\obj\Debug\netcoreapp3.1\Academy.AssemblyInfoInputs.cache
+C:\Users\Agil\source\repos\Academy\Academy\obj\Debug\netcoreapp3.1\Academy.AssemblyInfo.cs
+C:\Users\Agil\source\repos\Academy\Academy\obj\Debug\netcoreapp3.1\Academy.csproj.CoreCompileInputs.cache
+C:\Users\Agil\source\repos\Academy\Academy\obj\Debug\netcoreapp3.1\Academy.dll
+C:\Users\Agil\source\repos\Academy\Academy\obj\Debug\netcoreapp3.1\Academy.pdb
+C:\Users\Agil\source\repos\Academy\Academy\obj\Debug\netcoreapp3.1\Academy.genruntimeconfig.cache
